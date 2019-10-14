@@ -1,0 +1,194 @@
+p {
+	color:red;
+}
+
+.divOne{
+	background-color:black;
+	height:70px;
+	width:200px;	
+	float:right;
+
+	
+	
+	
+}
+
+.divTwo{
+	background-color:blue;
+	height:70px;
+	width:200px;
+	float:right;
+
+
+	
+}
+
+.divThree{
+	background-color:green;
+	height:70px;
+	width:200px;
+	float:right;
+
+
+	
+}
+
+.divFour{
+	background-color:yellow;
+	height:70px;
+	width:200px;
+	clear:both;
+	float:left;
+
+
+	
+}
+
+.divFive{
+	background-color:orange;
+	height:70px;
+	clear:both;
+	float:left;
+	width:100%;
+
+
+	
+}
+
+.divSix{
+	background-color:teal;
+	height:280px;
+	width:200px;
+	clear:both;
+	float:left;
+	width:33%;
+
+
+	
+}
+
+.divSeven{
+	background-color:purple;
+	height:70px;
+	float:left;
+	width:66%;
+
+
+	
+}
+
+.divEight{
+	background-color:blue;
+	height:70px;
+	float:left;
+	width:66%;
+
+
+	
+}
+
+.divNine{
+	background-color:red;
+	height:70px;
+	float:left;
+	width:66%;
+
+
+	
+}
+
+.divTen{
+	background-color:green;
+	height:70px;
+	float:left;
+	width:66%;
+
+
+	
+}
+
+.divEleven{
+	background-color:indigo;
+	height:70px;
+	clear:both;
+	float:left;
+	width:100%;
+
+
+	
+}
+
+.divTwelve{
+	background-color:orange;
+	height:280px;
+	width:200px;
+	clear:both;
+	float:left;
+	width:30%;
+	margin-left: 50%
+
+
+	
+}
+
+.divThirteen{
+	background-color:black;
+	height:70px;
+	width:25%;	
+	float:left;
+	clear:both;
+	
+
+}
+
+.divFourteen{
+	background-color:yellow;
+	height:70px;
+	width:25%;	
+	float:left;
+	
+	
+
+}
+
+.divFithteen{
+	background-color:blue;
+	height:70px;
+	width:25%;	
+	float:left;
+	
+	
+
+}
+
+.divSixteen{
+	background-color:orange;
+	height:70px;
+	width:25%;	
+	float:left;
+	
+	
+
+}
+
+.divSeventeen{
+	background-color:green;
+	height:70px;
+	width:33%;	
+	float:left;
+	margin-left:33%;
+	
+	
+
+}
+
+.divEighteen{
+	background-color:purple;
+	height:70px;
+	width:100%;	
+	float:left;
+	clear:both;
+	
+	
+
+}
